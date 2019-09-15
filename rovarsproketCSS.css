@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background: url("gautier1.png");
+    background-size: cover; 
+}
+
+h1 {
+    margin-top: 50px;
+    background-color: hsla(133, 39%, 95%, 0.84);
+    font-size: 40px;
+    height: 60px;
+    font-family: 'comic sans ms'
+}
+
+h3 {
+    color: hsl(133, 92%, 38%);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 25px;
+    
+}
+
+textarea{
+    opacity: 0.5;
+    border: 1px solid black;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#textarea, #result-area{
+    width: 400px;
+    height: 100px;
+}
+
+.text-2 {
+    margin-top: 50px;
+}
+
+
+#erase-btn {
+    background-color:white;
+    font-family: 'comic sans ms';
+    border: 1px solid black;
+}
+
+.back-btn{
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#back{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border: 1px solid black;
+
+}
